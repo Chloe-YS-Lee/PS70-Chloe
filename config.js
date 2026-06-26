@@ -3,9 +3,9 @@ var config = {
   student_year_sem: "Summer of 2026", // ie. Fall 2025
   student_email: "chloeleeys@gmail.com", // ie. jdoe@college.harvard.edu
 
-  background_color: "#181818",
-  text_color: "#dedede",
-  accent_color: "#FFFFFF",
+  background_color: "rgb(24, 4, 4)",
+  text_color: "rgb(154, 178, 179)",
+  accent_color: "hsl(216, 100%, 84%)",
 
   // Make sure to add the @import from Google Fonts to style.css, ask if you need help!
   font_family: "Lato",
